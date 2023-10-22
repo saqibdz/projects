@@ -45,3 +45,20 @@ This project serves as a simple introduction to programming fundamentals, includ
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Object-oriented programming (OOP) Project
+
+Project Description: Blogging Platform with OOP
+
+Objective: The project's main goal is to create a blogging platform where users can write and manage blog posts, comment on posts, and view a list of posts and their associated comments.
+
+Components:
+
+Author Class: Represents individuals who write blog posts. Authors have names.
+Comment Class: Represents comments made on blog posts. Each comment has an author and content.
+Post Class: Represents individual blog posts with a title, content, and an author. Posts can also have comments.
+Blog Class: Represents the overall blogging platform. It allows the creation of new posts, lists all posts, and displays comments for each post.
+User Interaction: The project simulates user interactions where authors (in this case, "Alice" and "Bob") can create blog posts and readers can comment on those posts. Users can also view the list of posts and associated comments.
+
+Output: The project provides output in the form of blog posts, comments, and a summary of the blog's name, the number of posts, and a list of authors.
+
+Purpose: This project is designed to showcase the application of OOP principles to create an organized and structured system for managing a blog, its posts, comments, and authors.
